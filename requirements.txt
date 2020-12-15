@@ -1,0 +1,4 @@
+qtpy
+PyQT5==5.14.0
+numpy
+matplotlib
